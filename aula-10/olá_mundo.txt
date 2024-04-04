@@ -1,0 +1,6 @@
+escrendo algo novo!Escrendo algo novo!
+ada
+1
+42.2
+True
+['a', 'b', 'c']
