@@ -1,4 +1,14 @@
-# Curso Data4All - Análise de Dados com Python
+# Análise de Dados com Python
+![Python](https://img.shields.io/badge/Python-Programming_Language-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-FF7F0E?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Data_Visualization-FF9A8B?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-Scientific_Computing-8CA0FF?style=flat-square&logo=python&logoColor=white)
+
+
 
 O curso **Data4All** é uma formação em ciência de dados oferecida pela **Gerdau** em parceria com a **Ada Tech**. O curso é gratuito e focado no empoderamento de pessoas autodeclaradas pretas e pardas. A formação abrange tópicos essenciais em **Python**, **análise de dados**, **estatística** e **machine learning**.
 
