@@ -10,6 +10,7 @@
 
 
 
+
 O curso **Data4All** é uma formação em ciência de dados oferecida pela **Gerdau** em parceria com a **Ada Tech**. O curso é gratuito e focado no empoderamento de pessoas autodeclaradas pretas e pardas. A formação abrange tópicos essenciais em **Python**, **análise de dados**, **estatística** e **machine learning**.
 
 ## Objetivos do Curso
